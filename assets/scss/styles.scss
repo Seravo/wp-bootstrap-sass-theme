@@ -1,0 +1,18 @@
+/**
+ * Filename: styles.scss
+ * Project: Seravo Bootstrap SASS Theme
+ * Copyright: (c) 2015 Antti Kuosmanen / Seravo Oy
+ * License: The MIT License (MIT) http://opensource.org/licenses/MIT
+ */
+
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+// Import Bootstrap for Sass
+@import "modules/default";
